@@ -75,4 +75,4 @@ more tasks.
 [mix-manual-glossary]: https://nixos.org/nix/manual/#part-glossary
 
 [previous-module]: ../00-prerequisites/README.md
-[next-module]: ../01-using-nix/README.md
+[next-module]: ../02-using-nix/README.md
